@@ -1,3 +1,4 @@
 .env/
 device_shop.csv
 *.csv
+.ipynb_checkpoints/
