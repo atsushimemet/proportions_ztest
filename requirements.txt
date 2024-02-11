@@ -6,3 +6,4 @@ isort
 flake9
 black
 mypy
+pyarrow
