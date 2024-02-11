@@ -3,7 +3,7 @@ pandas
 jupyterlab
 jupyterlab_code_formatter
 isort
-flake9
+flake8
 black
 mypy
 pyarrow
